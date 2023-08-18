@@ -25,4 +25,4 @@ def get_request2():
 
 
 get_request()
-get_request2()
+# test_get_request2()

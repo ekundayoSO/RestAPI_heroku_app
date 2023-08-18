@@ -4,7 +4,7 @@ import requests
 
 import Token.Authentication
 import Utilities.Generic
-from Requests.POST_Request import booking_id
+from Requests1.POST_Request import booking_id
 
 base_url = "https://restful-booker.herokuapp.com"
 token = Token.Authentication.generateAuthenticationToken()
